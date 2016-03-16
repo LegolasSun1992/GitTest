@@ -1,2 +1,2 @@
 # GitTest
-to test git command operation
+for test git command operation
