@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-for test swictch branch to master
-=======
-for test switch branch
->>>>>>> made a change
+for test swictch branch to master and branch
